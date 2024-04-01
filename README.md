@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhumathi</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-- 📫 How to reach me **bmadhumathi319@gmail.com**
+<p>
+  📫 How to reach me:
+  <a href="mailto:bmadhumathi319@gmail.com"> bmadhumathi319@gmail.com</a>
+</p>
   <p>
     
   <a href="https://portfolio-topaz-sigma-96.vercel.app/" target="_blank" rel="noopener noreferrer">Here is my Portfolio!!</a>
